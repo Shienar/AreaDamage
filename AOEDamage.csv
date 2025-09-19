@@ -150,9 +150,9 @@ Soul Shred,25091,Skill,Class,Nightblade,Siphoning,Yes,Initial Hit,U47
 Soul Shred,25170,Skill,Class,Nightblade,Siphoning,No,Synergy Damage,U47
 Soul Tether,35460,Skill,Class,Nightblade,Siphoning,Yes,Initial Hit,U47
 Soul Tether,-,Skill,Class,Nightblade,Siphoning,No,Synergy Damage,U47
-Daedric Prey,24329,Skill,Class,Sorcerer,Daedric Summoing,Yes,-,U47
-Atronach Lightning Strike,29809,Skill,Class,Sorcerer,Daedric Summoming,Yes,Every 2s - Charged Atronach,U47
-Summon Charged Atronach,23667,Skill,Class,Sorcerer,Daedric Summoming,Yes,Initial Hit,U47
+Daedric Prey,24329,Skill,Class,Sorcerer,Daedric Summoning,Yes,-,U47
+Atronach Lightning Strike,29809,Skill,Class,Sorcerer,Daedric Summoning,Yes,Every 2s - Charged Atronach,U47
+Summon Charged Atronach,23667,Skill,Class,Sorcerer,Daedric Summoning,Yes,Initial Hit,U47
 Daedric Curse,24327,Skill,Class,Sorcerer,Daedric Summoning,Yes,-,U47
 Greater Storm Atronach,23664,Skill,Class,Sorcerer,Daedric Summoning,Yes,Initial Hit,U47
 Haunting Curse,24331,Skill,Class,Sorcerer,Daedric Summoning,Yes,Same ID for both ticks.,U47
