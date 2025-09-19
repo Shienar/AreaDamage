@@ -1,0 +1,320 @@
+Ability Name,Ability ID,Category,Subcategory 1,Subcategory 2,Subcategory 3,Buffed as Area Damage,Notes,Patch
+Winterborn,71646,Item Set,Arena,Maelstrom Arena,-,Yes,-,U47
+Explosive Rebuke,147694,Item Set,Arena,Vateshran Hollows,-,Yes,-,U47
+Ashen Grip,34502,Item Set,Craftable,-,-,Yes,-,U47
+Deadlands Demolisher,163293,Item Set,Craftable,-,-,Yes,-,U47
+Honor's Scorn,121917,Item Set,Craftable,-,-,No,Coldharbour's Favorite Set,U47
+Reflected Fury,214756,Item Set,DLC Dungeon,Bedlam Veil,-,Yes,-,U47
+Tarnished Nightmare,214520,Item Set,DLC Dungeon,Bedlam Veil,-,Yes,-,U47
+Flame Blossom,97574,Item Set,DLC Dungeon,Bloodroot Forge,-,Yes,-,U47
+Crimson Twilight,141642,Item Set,DLC Dungeon,Castle Thorn,-,Yes,-,U47
+Glacial Guardian,167115,Item Set,DLC Dungeon,Coral Aerie,-,Yes,-,U47
+Grpyhon's Reprisal,-,Item Set,DLC Dungeon,Coral Aerie,-,No,-,U47
+Hand of Mephala,84355,Item Set,DLC Dungeon,Cradle of Shadows,-,Yes,-,U47
+Auroran's Thunder,116920,Item Set,DLC Dungeon,Depths of Malatar,-,Yes,-,U47
+Rush of Agony,159275,Item Set,DLC Dungeon,Dread Cellar,-,Yes,-,U47
+Jerensi's Bladestorm,235745,Item Set,DLC Dungeon,Exiled Redoubt,-,Yes,Delayed,U47
+Jerensi's Bladestorm,236163,Item Set,DLC Dungeon,Exiled Redoubt,-,Yes,Initial,U47
+Vandorallen's Resonance,235836,Item Set,DLC Dungeon,Exiled Redoubt,-,Yes,-,U47
+Pillar of Nirn,97716,Item Set,DLC Dungeon,Falkreath Hold,-,Yes,Initial hit only,U47
+Blight Seed,126633,Item Set,DLC Dungeon,Lair of Maarselok,-,No,Azureblight Reaper Set,U47
+Cinders of Anthelmir,214889,Item Set,DLC Dungeon,Oathsworn Pit,-,Yes,-,U47
+Thunder Caller,159253,Item Set,DLC Dungeon,Red Petal Bastion,-,Yes,-,U47
+Turning Tide,167062,Item Set,DLC Dungeon,Shipwright's Regret,-,Yes,-,U47
+Aegis Caller,133494,Item Set,DLC Dungeon,Unhallowed Grave,-,Yes,-,U47
+Lady Thorn,142305,Item Set,DLC Dungeon (Monster),Castle Thorn,-,Yes,-,U47
+Kargaeda's Storm,167048,Item Set,DLC Dungeon (Monster),Coral Aerie,-,Yes,Kargaeda,U47
+Kargaeda's Wind,167607,Item Set,DLC Dungeon (Monster),Coral Aerie,-,Yes,Kargaeda,U47
+Archdruid Devyric,176816,Item Set,DLC Dungeon (Monster),Earthen Root Enclave,-,Yes,-,U47
+Thurvokun,102094,Item Set,DLC Dungeon (Monster),Fang Lair,-,Yes,-,U47
+Euphotic Gatekeeper,175349,Item Set,DLC Dungeon (Monster),Graven Deep,-,Yes,-,U47
+Maarselok,126941,Item Set,DLC Dungeon (Monster),Lair of Maarselok,-,Yes,-,U47
+Orpheon the Tactician,236655,Item Set,DLC Dungeon (Monster),Lep Seclusa,-,Yes,Stunned,U47
+Orpheon the Tactician,236789,Item Set,DLC Dungeon (Monster),Lep Seclusa,-,Yes,Immune to Stun,U47
+Bar-Sakka,248631,Item Set,DLC Dungeon (Monster),Naj-Caldeesh,-,Yes,-,U47
+Prior Thierric,159516,Item Set,DLC Dungeon (Monster),Red Petal Bastion,-,Yes,-,U47
+Z'aans,102136,Item Set,DLC Dungeon (Monster),Scalecaller Peak,-,Yes,-,U47
+Embershield,59696,Item Set,Dungeon,City of Ash I/II,-,Yes,-,U47
+Frostfire,34404,Item Set,Dungeon,Direfrost Keep,-,Yes,The Ice Furnace,U47
+Overwhelming Surge,67136,Item Set,Dungeon,Tempest Island,-,Yes,-,U47
+Sellistrix,80544,Item Set,Dungeon (Monster),Arx Corinium,-,Yes,Spawn of Mephala,U47
+Infernal Guardian,83409,Item Set,Dungeon (Monster),City of Ash I,-,Yes,-,U47
+Valkyn Skoria,61273,Item Set,Dungeon (Monster),City of Ash II,-,Yes,All other enemies in 5 meters,U47
+Ilambris,80526,Item Set,Dungeon (Monster),Crypt of Hearts I,-,Yes,-,U47
+Nerieneth,59593,Item Set,Dungeon (Monster),Crypt of Hearts II,-,Yes,-,U47
+Iceheart,80561,Item Set,Dungeon (Monster),Direfrost Keep,-,Yes,-,U47
+Kragh,80565,Item Set,Dungeon (Monster),Fungal Grotto I,-,Yes,-,U47
+Stormfist,80521,Item Set,Dungeon (Monster),Tempest Island,-,Yes,Final Hit,U47
+Stormfist,80522,Item Set,Dungeon (Monster),Tempest Island,-,Yes,First 3s,U47
+Grothdarr,84502,Item Set,Dungeon (Monster),Vault's of Madness,-,Yes,-,U47
+Tremorscale,80865,Item Set,Dungeon (Monster),Volenfell,-,Yes,-,U47
+Mephala's Web,59498,Item Set,Dungeon (Monster) ,Fungal Grotto II,-,Yes,-,U47
+Baron Thirsk,167742,Item Set,Imperial City (Monster),-,-,Yes,-,U47
+Lady Malygda,166788,Item Set,Imperial City (Monster),-,-,Yes,Dmg going out,U47
+Lady Malygda,167962,Item Set,Imperial City (Monster),-,-,Yes,Dmg  coming back,U47
+Nunatak,167680,Item Set,Imperial City (Monster),-,-,Yes,-,U47
+Corpsebuster,227072,Item Set,Infinite Archive,Necromancer,-,Yes,-,U47
+Monolith of Storms,-,Item Set,Infinite Archive,Sorcerer,-,No,-,U47
+Dov-Rha Sabatons,173734,Item Set,Mythic,-,-,Yes,-,U47
+Mad God's Dancing Shoes,239711,Item Set,Mythic,-,-,Yes,Exploding Cheese Wheel,U47
+Mad God's Dancing Shoes,240131,Item Set,Mythic,-,-,Yes,Enemies Facing You,U47
+Bahraha's Curse,75692,Item Set,Overland,-,-,Yes,-,U47
+Deadlands Assassin,154347,Item Set,Overland,-,-,Yes,-,U47
+Defiler,93307,Item Set,Overland,-,-,Yes,-,U47
+Macabre,-,Item Set,Overland,-,-,No,-,U47
+Mad Tinkerer,243309,Item Set,Overland,-,-,Yes,-,U47
+Storm Knight's Plate,57209,Item Set,Overland,-,-,Yes,-,U47
+Syvarra's Scales,76344,Item Set,Overland,-,-,Yes,Only the weak initial tick.,U47
+Thunderbugs Carapace,33497,Item Set,Overland,-,-,Yes,-,U47
+Trinimac's Valor,71658,Item Set,Overland,-,-,Yes,-,U47
+Twin Sisters,-,Item Set,Overland,-,-,No,-,U47
+Venomous Smite,137526,Item Set,Overland,-,-,Yes,Only to nearby enemies.,U47
+Dark Convergence,159386,Item Set,PvP,-,-,Yes,Whole Circle,U47
+Dark Convergence,159387,Item Set,PvP,-,-,Yes,Inner Circle,U47
+Defending Warrior,50992,Item Set,Trial,Aetherian Archive,-,Yes,-,U47
+Whorl of the Depths,172672,Item Set,Trial,Dreadsail Reef,-,Yes,Whirlpool,U47
+Roar of Alkosh,75752,Item Set,Trial,Maw of Lorkhaj,-,Yes,Initial hit only,U47
+Abyssal Impact,185817,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Cephaliarc's Flail,183006,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Exhausting Fatecarver,183123,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Fatecarver,185808,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Fulminating Rune,185407,Skill,Class,Arcanist,Herald of the Tome,Yes,6 second Detonation,U47
+Pragmatic Fatecarver,186370,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Runebreak,191078,Skill,Class,Arcanist,Herald of the Tome,Yes,The Imperfect Ring Synergy,U47
+Tentacular Dread,185823,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+The Languid Eye,189869,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+The Tide King's Gaze,189893,Skill,Class,Arcanist,Herald of the Tome,No,-,U47
+The Unblinking Eye,189793,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
+Gibbering Shield,183678,Skill,Class,Arcanist,Soldier of Apocrypha,Yes,Difficult to test.,U47
+Sanctum of the Abyssal Sea,193275,Skill,Class,Arcanist,Soldier of Apocrypha,Yes,Difficult to test.,U47
+Dragonknight Standard,28995,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
+Engulfing Flames,20930,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
+Fiery Breath,20917,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
+Noxious Breath,20944,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
+Shifting Standard,32960,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
+Standard of Might,32948,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
+Burning Talons,20252,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
+Choking Talons,20251,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Dark Talons,20245,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Deep Breath,32792,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
+Deep Breath,32794,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
+Dragon Leap,29014,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Draw Essence,32785,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
+Draw Essence,32787,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
+Ferocious Leap,32716,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Inhale,31837,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
+Inhale,31842,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
+Take Flight,32720,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Corrosive Armor,17979,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
+Eruption,32711,Skill,Class,Dragonknight,Earthen Heart,Yes,DOT,U47
+Eruption,32714,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
+Magma Armor,15959,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
+Magma Shell,17875,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
+Stone Giant,134340,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
+Stonefist,134310,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
+Death Scythe,115115,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
+Ghostly Embrace,118314,Skill,Class,Necromancer,Bone Tyrant,Yes,First Circle On-Hit,U47
+Ghostly Embrace,143944,Skill,Class,Necromancer,Bone Tyrant,Yes,Second Circle On-Hit,U47
+Ghostly Embrace,143946,Skill,Class,Necromancer,Bone Tyrant,Yes,Third Circle On-hit,U47
+Hungry Scythe,118223,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
+Pummeling Goliath,118720,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
+Pure Agony,118618,Skill,Class,Necromancer,Bone Tyrant,Yes,Agony Totem Synergy,U47
+Ravenous Goliath,118289,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
+Ruinous Scythe,118266,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
+Avid Boneyard,117854,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Blighted Skeletal Detonation,117715,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Boneyard,115254,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Deathbolt,124468,Skill,Class,Necromancer,Grave Lord,Yes,Skeletal Arcanist AOE Dmg,U47
+Detonating Siphon,118766,Skill,Class,Necromancer,Grave Lord,Yes,DOT,U47
+Detonating Siphon,123082,Skill,Class,Necromancer,Grave Lord,Yes,Terminatiing Explosion,U47
+Frozen Colossus,122178,Skill,Class,Necromancer,Grave Lord,Yes,Hits 1-3,U47
+Glacial Colossus,122392,Skill,Class,Necromancer,Grave Lord,Yes,Hits 1-3,U47
+Grave Lord's Sacrifice,220098,Skill,Class,Necromancer,Grave Lord,Yes,"Buffed 3rd skull hit, base morph.",U47
+Grave Lord's Sacrifice,220101,Skill,Class,Necromancer,Grave Lord,Yes,Buffed 3rd venom skull hit.,U47
+Grave Lord's Sacrifice,220104,Skill,Class,Necromancer,Grave Lord,Yes,Buffed 3rd ricochet skull hit.,U47
+Grave Robber,115572,Skill,Class,Necromancer,Grave Lord,Yes,Boneyard Synergy,U47
+Mystic Siphon,118011,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Pestilent Colossus,122399,Skill,Class,Necromancer,Grave Lord,Yes,Hit 1,U47
+Pestilent Colossus,122400,Skill,Class,Necromancer,Grave Lord,Yes,Hit 2,U47
+Pestilent Colossus,122401,Skill,Class,Necromancer,Grave Lord,Yes,Hit 3,U47
+Shocking Siphon,116410,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Unnerving Boneyard,117809,Skill,Class,Necromancer,Grave Lord,Yes,-,U47
+Lotus Fan,25494,Skill,Class,Nightblade,Assassination,Yes,Initial Hit,U47
+Corrossive Drain,108936,Skill,Class,Nightblade,Shadow,Yes,From Dark Shade Skill,U47
+Twisting Path,36052,Skill,Class,Nightblade,Shadow,Yes,-,U47
+Veil of Blades,36490,Skill,Class,Nightblade,Shadow,Yes,-,U47
+Drain Power,33316,Skill,Class,Nightblade,Siphoning,Yes,-,U47
+Power Extraction,36901,Skill,Class,Nightblade,Siphoning,Yes,-,U47
+Sap Essence,36891,Skill,Class,Nightblade,Siphoning,Yes,-,U47
+Soul Shred,25091,Skill,Class,Nightblade,Siphoning,Yes,Initial Hit,U47
+Soul Shred,25170,Skill,Class,Nightblade,Siphoning,No,Synergy Damage,U47
+Soul Tether,35460,Skill,Class,Nightblade,Siphoning,Yes,Initial Hit,U47
+Soul Tether,-,Skill,Class,Nightblade,Siphoning,No,Synergy Damage,U47
+Daedric Prey,24329,Skill,Class,Sorcerer,Daedric Summoing,Yes,-,U47
+Atronach Lightning Strike,29809,Skill,Class,Sorcerer,Daedric Summoming,Yes,Every 2s - Charged Atronach,U47
+Summon Charged Atronach,23667,Skill,Class,Sorcerer,Daedric Summoming,Yes,Initial Hit,U47
+Daedric Curse,24327,Skill,Class,Sorcerer,Daedric Summoning,Yes,-,U47
+Greater Storm Atronach,23664,Skill,Class,Sorcerer,Daedric Summoning,Yes,Initial Hit,U47
+Haunting Curse,24331,Skill,Class,Sorcerer,Daedric Summoning,Yes,Same ID for both ticks.,U47
+Summon Storm Atronach,23659,Skill,Class,Sorcerer,Daedric Summoning,Yes,Initial Hit,U47
+Summon Unstable Clannfear,29529,Skill,Class,Sorcerer,Daedric Summoning,Yes,Tailswipe,U47
+Summon Unstable Familiar,108844,Skill,Class,Sorcerer,Daedric Summoning,Yes,Every 2s,U47
+Summon Volatile Familiar,77186,Skill,Class,Sorcerer,Daedric Summoning,Yes,Every 2s,U47
+Deadric Mines,-,Skill,Class,Sorcerer,Dark Magic,No,Same for morphs,U47
+Shattering Spines,28309,Skill,Class,Sorcerer,Dark Magic,Yes,-,U47
+Suppression Field,80435,Skill,Class,Sorcerer,Dark Magic,Yes,-,U47
+Boundless Storm,23214,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Endless Fury,44491,Skill,Class,Sorcerer,Storm Calling,Yes,Only to other enemies nearby,U47
+Energy Overload,114798,Skill,Class,Sorcerer,Storm Calling,Yes,Heavy Attacks,U47
+Hurricane,23232,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Lightning Flood,23208,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Lightning Form,23211,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Lightning Splash,23189,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Liquid Lightning,23202,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Mage's Fury,44483,Skill,Class,Sorcerer,Storm Calling,Yes,Only to other enemies nearby,U47
+Mage's Wrath,19128,Skill,Class,Sorcerer,Storm Calling,Yes,20% Explosion,U47
+Overload,24798,Skill,Class,Sorcerer,Storm Calling,Yes,Heavy Attacks,U47
+Power Overload,7102,Skill,Class,Sorcerer,Storm Calling,Yes,Heavy Attacks,U47
+Streak,23239,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Biting Jabs,44432,Skill,Class,Templar,Aedric Spear,Yes,-,U47
+Blazing Shield,22181,Skill,Class,Templar,Aedric Spear,Yes,Max reflected damage increases.,U47
+Blazing Spear,26871,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Blazing Spear,26879,Skill,Class,Templar,Aedric Spear,Yes,DOT,U47
+Crescent Sweep,22139,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Crescent Sweep,62606,Skill,Class,Templar,Aedric Spear,Yes,Every 2s,U47
+Everlasting Sweep,22144,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Everlasting Sweep,62598,Skill,Class,Templar,Aedric Spear,Yes,Every 2s,U47
+Explosive Charge,22165,Skill,Class,Templar,Aedric Spear,Yes,-,U47
+Luminous Shards,26859,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Luminous Shards,95955,Skill,Class,Templar,Aedric Spear,Yes,DOT,U47
+Puncturing Strikes,44426,Skill,Class,Templar,Aedric Spear,Yes,-,U47
+Puncturing Sweep,44436,Skill,Class,Templar,Aedric Spear,Yes,-,U47
+Radial Sweep,22138,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Radial Sweep,62550,Skill,Class,Templar,Aedric Spear,Yes,Every 2s,U47
+Radiant Ward,22182,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Spear Shards,26192,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Spear Shards,95931,Skill,Class,Templar,Aedric Spear,Yes,DOT,U47
+Sun Shield,22178,Skill,Class,Templar,Aedric Spear,Yes,Initial Hit,U47
+Gravity Crush,31604,Skill,Class,Templar,Dawn's Wrath,Yes,Solar Prison synergy,U47
+Nova,21753,Skill,Class,Templar,Dawn's Wrath,Yes,Caster DOT,U47
+Reflective Light,21732,Skill,Class,Templar,Dawn's Wrath,Yes,Only the initial hit.,U47
+Solar Barrage,100218,Skill,Class,Templar,Dawn's Wrath,Yes,Every 2s,U47
+Solar Distrubance,21759,Skill,Class,Templar,Dawn's Wrath,Yes,Caster DOT,U47
+Solar Prison,21756,Skill,Class,Templar,Dawn's Wrath,Yes,Caster DOT,U47
+Supernova,31540,Skill,Class,Templar,Dawn's Wrath,Yes,Nova synergy,U47
+Unstable Core,127791,Skill,Class,Templar,Dawn's Wrath,Yes,First Hit,U47
+Unstable Core,127792,Skill,Class,Templar,Dawn's Wrath,Yes,Second Hit,U47
+Unstable Core,127793,Skill,Class,Templar,Dawn's Wrath,Yes,Third Hit,U47
+Ritual of Retribution,80172,Skill,Class,Templar,Restoring Light,Yes,-,U47
+Crushing Swipe,89128,Skill,Class,Warden,Animal Companions,Yes,Feral Guardian attack,U47
+Crushing Swipe,89220,Skill,Class,Warden,Animal Companions,Yes,Wild Guardian attack,U47
+Crushing Swipe,105907,Skill,Class,Warden,Animal Companions,Yes,Eternal Guardian attack,U47
+Deep Fissure,94424,Skill,Class,Warden,Animal Companions,Yes,1st hit,U47
+Deep Fissure,181331,Skill,Class,Warden,Animal Companions,Yes,2nd hit,U47
+Growing Swarm,130170,Skill,Class,Warden,Animal Companions,Yes,Every 2s to nearby enemies,U47
+Scorch,94411,Skill,Class,Warden,Animal Companions,Yes,1st hit,U47
+Scorch,181330,Skill,Class,Warden,Animal Companions,Yes,2nd hit,U47
+Subterranean Assault,94445,Skill,Class,Warden,Animal Companions,Yes,1st & 2nd hit.,U47
+Arctic Blast,86156,Skill,Class,Warden,Winter's Embrace,Yes,Initial Hit,U47
+Arctic Blast,130406,Skill,Class,Warden,Winter's Embrace,Yes,Every 2s to enemies hit.,U47
+Gripping Shards,88791,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Impaing Shards,88783,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Northern Storm,88860,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Permafrost,88863,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Sleet Storm,86247,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Winter's Revenge,88802,Skill,Class,Warden,Winter's Embrace,Yes,-,U47
+Dawnbreaker,35713,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
+Dawnbreaker of Smiting,40158,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
+Flawless Dawnbreaker,40161,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
+Silver Shards,40300,Skill,Guild,Fighters Guild,-,Yes,All 3 bolts are affected.,U47
+Fire Rune,31635,Skill,Guild,Mages Guild,-,Yes ,-,U47
+Ice Comet,63454,Skill,Guild,Mages Guild,-,Yes,DOT,U47
+Ice Comet ,63457,Skill,Guild,Mages Guild,-,Yes,Initial hit,U47
+Meteor,63429,Skill,Guild,Mages Guild,-,Yes,DOT,U47
+Meteor,172912,Skill,Guild,Mages Guild,-,Yes,Initial hit,U47
+Scalding Rune,40469,Skill,Guild,Mages Guild,-,Yes,Initial Hit Only,U47
+Shooting Star,63471,Skill,Guild,Mages Guild,-,Yes,DOT,U47
+Shooting Star,63474,Skill,Guild,Mages Guild,-,Yes,Initial hit,U47
+Volcanic Rune,40473,Skill,Guild,Mages Guild,-,Yes,-,U47
+Combustion,85432,Skill,Guild,Undaunted,-,Yes,Damage from Orb Synergy.,U47
+Mystic Orb,42029,Skill,Guild,Undaunted,-,Yes,-,U47
+Necrotic Orb,39299,Skill,Guild,Undaunted,-,Yes,-,U47
+Radiate,41839,Skill,Guild,Undaunted,-,Yes ,AOE part of Inner fire synergy.,U47
+Shadow Silk,126720,Skill,Guild,Undaunted,-,Yes,Initial hit,U47
+Shadow Sillk,80107,Skill,Guild,Undaunted,-,Yes,After 10s,U47
+Tangling Webs,80129,Skill,Guild,Undaunted,-,Yes,After 10s,U47
+Tangling Webs,126722,Skill,Guild,Undaunted,-,Yes,Initial hit,U47
+Trapping Webs,80083,Skill,Guild,Undaunted,-,Yes,After 10s,U47
+Trapping Webs,126718,Skill,Guild,Undaunted,-,Yes,Initial Hit,U47
+Anti-Cavalry Caltrops,40267,Skill,PvP,Assault,-,Yes,-,U47
+Caltrops,38561,Skill,PvP,Assault,-,Yes,-,U47
+Inevitable Detonation,61493,Skill,PvP,Assault,-,Yes,-,U47
+Magicka Detonation,61488,Skill,PvP,Assault,-,Yes,-,U47
+Proximity Detonation,61502,Skill,PvP,Assault,-,Yes,-,U47
+Razor Caltrops,40252,Skill,PvP,Assault,-,Yes,-,U47
+Elemental Explosion,217231,Skill,Scribing,-,-,Yes,Initial Hit,U47
+Smash,217178,Skill,Scribing,-,-,Yes,Initial Hit,U47
+Soul Burst,217459,Skill,Scribing,-,-,Yes,Initial Hit,U47
+Torch,217632,Skill,Scribing,-,-,Yes,Initial hit,U47
+Trample,217679,Skill,Scribing,-,-,Yes,Initial Hit,U47
+Traveling Knife,217348,Skill,Scribing,-,-,Yes,Multi-Target Script,U47
+Traveling Knife,217359,Skill,Scribing,-,-,Yes,Between You and Them,U47
+Ulfsild's Contingency,229656,Skill,Scribing,-,-,Yes,Initial Hit,U47
+Vault,214960,Skill,Scribing,-,-,Yes,-,U47
+Acid Spray,38724,Skill,Weapon,Bow,-,Yes,Initial Hit Only,U47
+Arrow Barrage,38696,Skill,Weapon,Bow,-,Yes,-,U47
+Arrow Spray,38722,Skill,Weapon,Bow,-,Yes,-,U47
+Bombard,38723,Skill,Weapon,Bow,-,Yes,-,U47
+Endless Hail,38690,Skill,Weapon,Bow,-,Yes,-,U47
+Volley,28877,Skill,Weapon,Bow,-,Yes,-,U47
+Eye of Flame,83683,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Eye of Frost,83685,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Eye of Lightning,83687,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Fiery Rage,85127,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Fire Impulse,28794,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Fire Ring,39149,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Fire Storm,83626,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Flame Pulsar,170989,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Frost Impulse,28798,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Frost Pulsar,170990,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Frost Ring,39151,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Ice Storm,83629,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Icy Rage,85129,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Shock Impulse,146553,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Shock Ring,39153,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Storm Pulsar,146593,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Thunder Storm,83631,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Thunderous Rage,85131,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Trifocus,45505,Skill,Weapon,Destruction Staff,-,No,Lightning Heavies,U47
+Unstable Wall of Fire,39054,Skill,Weapon,Destruction Staff,-,Yes,DOT,U47
+Unstable Wall of Fire,39056,Skill,Weapon,Destruction Staff,-,Yes,Explosion,U47
+Unstable Wall of Frost,39071,Skill,Weapon,Destruction Staff,-,Yes,DOT,U47
+Unstable Wall of Frost,39072,Skill,Weapon,Destruction Staff,-,Yes,Explosion,U47
+Unstable Wall of Storms,39079,Skill,Weapon,Destruction Staff,-,Yes,DOT,U47
+Unstable Wall of Storms,39080,Skill,Weapon,Destruction Staff,-,Yes,Explosion,U47
+Wall of Fire,62896,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Wall of Frost,62931,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Wall of Storms,62971,Skill,Weapon,Destruction Staff,-,Yes,-,U47
+Blade Cloak,62522,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Deadly Cloak,62547,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Lacerate,-,Skill,Weapon,Dual Wield,-,No,-,U47
+Quick Cloak,62529,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Rend,-,Skill,Weapon,Dual Wield,-,No,-,U47
+Steel Tornado,38861,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Thrive in Chaos,-,Skill,Weapon,Dual Wield,-,No,-,U47
+Whirling Blades,38891,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Whirlwind,28591,Skill,Weapon,Dual Wield,-,Yes,-,U47
+Brawler,38754,Skill,Weapon,Two-Handed,-,Yes,-,U47
+Carve,38745,Skill,Weapon,Two-Handed,-,Yes,Initial Hit Only,U47
+Cleave,20919,Skill,Weapon,Two-Handed,-,Yes,-,U47
+Reverse Slice,38823,Skill,Weapon,Two-Handed,-,Yes,-,U47
+Stampede,38792,Skill,Weapon,Two-Handed,-,Yes,Initial Hit,U47
+Stampede,126474,Skill,Weapon,Two-Handed,-,Yes,DOT,U47
+Shatter Soul,40416,Skill,World,Soul Magic,-,Yes,Ending explosion,U47
+Soul Shatter,45584,Skill,World,Soul Magic,-,Yes,Passive,U47
+Blood Mist,38968,Skill,World,Vampire,-,Yes,Every 2s,U47
+Swarming Scion,38935,Skill,World,Vampire,-,Yes,Bat AOE,U47
+Brutal Carnage,137184,Skill,World,Werewolf,-,Yes,Recast DMG,U47
+Claws of Anguish,58864,Skill,World,Werewolf,-,Yes,Initial Hit,U47
+Claws of Life,58879,Skill,World,Werewolf,-,Yes,Initial Hit,U47
+Infectious Claw,58855,Skill,World,Werewolf,-,Yes ,Initial Hit,U47
