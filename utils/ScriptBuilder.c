@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     {
         if (i == size-1)
         {
-            if (fprintf(output, "%d, ", array[i]) < 0) fprintf(stderr, "Error printing to file at line %d, i=%d, id=%d", __LINE__, i, array[i]);
+            if (fprintf(output, "%d", array[i]) < 0) fprintf(stderr, "Error printing to file at line %d, i=%d, id=%d", __LINE__, i, array[i]);
         }
         else
         {
