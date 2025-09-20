@@ -401,6 +401,9 @@ table = {
 	[28877] = true,			-- Volley | Last Checked: U47
 
 	-- CATEGORY: Skill>Weapon>Destruction Staff
+	[62912] = true,			-- Blockade of Fire | Last Checked: U47
+	[62951] = true,			-- Blockade of Frost | Last Checked: U47
+	[62990] = true,			-- Blockade of Storms | Last Checked: U47
 	[83683] = true,			-- Eye of Flame | Last Checked: U47
 	[83685] = true,			-- Eye of Frost | Last Checked: U47
 	[83687] = true,			-- Eye of Lightning | Last Checked: U47
