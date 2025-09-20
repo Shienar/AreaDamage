@@ -12,10 +12,10 @@ int main(int argc, char** argv)
         exit(1);
     }
 
-    FILE* output = fopen("../output.lua", "w");
+    FILE* output = fopen("../table.lua", "w");
     if (output == NULL) {
-        perror("Error opening output file '../output.txt'\n");
-        fclose(output);
+        perror("Error opening output file '../table.lua'\n");
+        fclose(input);
         exit(1);
     }
 

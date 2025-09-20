@@ -9,4 +9,8 @@ The csv is sorted by the following columns: Category (A-Z) -> Subcategory 1 (A-Z
 
 Empty fields in the csv are denoted by a dash ("-").
 
-This repo also contains a simple C program in the utils folder that generates "output.lua", a commented lua table, from the csv values.
+UTILS
+
+TableBuilder generates table.lua, a commented lua table containing the information from the csv.
+
+ScriptBuilder generates a query-script.txt that, when pasted into the "New Script" part of ESOLogs' Query section, will allow you to filter for AOE abilities or non-AOE abilities. 
