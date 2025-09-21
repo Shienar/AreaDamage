@@ -258,9 +258,8 @@ Smash,217178,Skill,Scribing,-,-,Yes,Physical/Blood/Poison Focus - Initial Hit,U4
 Smash,217179,Skill,Scribing,-,-,Yes,Magic Focus - Initial Hit,U47
 Smash,219972,Skill,Scribing,-,-,Yes,Knockback/Stun Focus - Initial Hit,U47
 Smash,227609,Skill,Scribing,-,-,Yes,Taunt Focus -Initial Hit,U47
-Soul Burst,215779,Skill,Scribing,-,-,Yes,Disease Focus - Initial Hit,U47
 Soul Burst,217459,Skill,Scribing,-,-,Yes,Magic/Fire/Frost/Shock Focus - Initial Hit,U47
-Soul Burst,217465,Skill,Scribing,-,-,Yes,Physical/Bleed Focus - Initial Hit,U47
+Soul Burst,217465,Skill,Scribing,-,-,Yes,Physical/Bleed/Disease Focus - Initial Hit,U47
 Torch,217631,Skill,Scribing,-,-,Yes,Physical/Bleed Focus - Initial hit,U47
 Torch,217632,Skill,Scribing,-,-,Yes,Fire/Frost Focus - Initial hit,U47
 Trample,217679,Skill,Scribing,-,-,Yes,Physical/Disease Focus - Initial Hit,U47
