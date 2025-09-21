@@ -227,7 +227,7 @@ Dawnbreaker,35713,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
 Dawnbreaker of Smiting,40158,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
 Flawless Dawnbreaker,40161,Skill,Guild,Fighters Guild,-,Yes,Initial Hit,U47
 Silver Shards,40300,Skill,Guild,Fighters Guild,-,Yes,All 3 bolts are affected.,U47
-Fire Rune,31635,Skill,Guild,Mages Guild,-,Yes ,-,U47
+Fire Rune,31635,Skill,Guild,Mages Guild,-,Yes,-,U47
 Ice Comet,63454,Skill,Guild,Mages Guild,-,Yes,DOT,U47
 Ice Comet ,63457,Skill,Guild,Mages Guild,-,Yes,Initial hit,U47
 Meteor,63429,Skill,Guild,Mages Guild,-,Yes,DOT,U47
@@ -239,7 +239,7 @@ Volcanic Rune,40473,Skill,Guild,Mages Guild,-,Yes,-,U47
 Combustion,85432,Skill,Guild,Undaunted,-,Yes,Damage from Orb Synergy.,U47
 Mystic Orb,42029,Skill,Guild,Undaunted,-,Yes,-,U47
 Necrotic Orb,39299,Skill,Guild,Undaunted,-,Yes,-,U47
-Radiate,41839,Skill,Guild,Undaunted,-,Yes ,AOE part of Inner fire synergy.,U47
+Radiate,41839,Skill,Guild,Undaunted,-,Yes,AOE part of Inner fire synergy.,U47
 Shadow Silk,126720,Skill,Guild,Undaunted,-,Yes,Initial hit,U47
 Shadow Sillk,80107,Skill,Guild,Undaunted,-,Yes,After 10s,U47
 Tangling Webs,80129,Skill,Guild,Undaunted,-,Yes,After 10s,U47
@@ -349,4 +349,4 @@ Swarming Scion,38935,Skill,World,Vampire,-,Yes,Bat AOE,U47
 Brutal Carnage,137184,Skill,World,Werewolf,-,Yes,Recast DMG,U47
 Claws of Anguish,58864,Skill,World,Werewolf,-,Yes,Initial Hit,U47
 Claws of Life,58879,Skill,World,Werewolf,-,Yes,Initial Hit,U47
-Infectious Claw,58855,Skill,World,Werewolf,-,Yes ,Initial Hit,U47
+Infectious Claw,58855,Skill,World,Werewolf,-,Yes,Initial Hit,U47
