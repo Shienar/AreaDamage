@@ -108,9 +108,6 @@ int main(int argc, char** argv)
 
     if (fprintf(output, "\n}") < 0)  fprintf(stderr, "Error printing to file at line %d", __LINE__);
 
-    fclose(output);
-    fclose(input);
-
     free(abilityName);
     free(category);
     free(subcategory1);
@@ -143,5 +140,7 @@ int main(int argc, char** argv)
 
     tabs = NULL;
 
+    fclose(output);
+    fclose(input);
     return 0;
 }

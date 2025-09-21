@@ -85,14 +85,12 @@ int main(int argc, char** argv)
         }
     }
     
-    fclose(output);
-    fclose(input);
     free(isAOE);
     isAOE = NULL;
     free(array);
     array = NULL;
-
-
+    fclose(output);
+    fclose(input);
 
     return 0;
 }
