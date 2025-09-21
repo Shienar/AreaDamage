@@ -252,15 +252,44 @@ Inevitable Detonation,61493,Skill,PvP,Assault,-,Yes,-,U47
 Magicka Detonation,61488,Skill,PvP,Assault,-,Yes,-,U47
 Proximity Detonation,61502,Skill,PvP,Assault,-,Yes,-,U47
 Razor Caltrops,40252,Skill,PvP,Assault,-,Yes,-,U47
-Elemental Explosion,217231,Skill,Scribing,-,-,Yes,Initial Hit,U47
-Smash,217178,Skill,Scribing,-,-,Yes,Initial Hit,U47
-Soul Burst,217459,Skill,Scribing,-,-,Yes,Initial Hit,U47
-Torch,217632,Skill,Scribing,-,-,Yes,Initial hit,U47
-Trample,217679,Skill,Scribing,-,-,Yes,Initial Hit,U47
-Traveling Knife,217348,Skill,Scribing,-,-,Yes,Multi-Target Script,U47
-Traveling Knife,217359,Skill,Scribing,-,-,Yes,Between You and Them,U47
-Ulfsild's Contingency,229656,Skill,Scribing,-,-,Yes,Initial Hit,U47
-Vault,214960,Skill,Scribing,-,-,Yes,-,U47
+Elemental Explosion,217231,Skill,Scribing,-,-,Yes,Flame/Frost/Magic/Frost Focus Scripts - Initial Hit,U47
+Elemental Explosion,229600,Skill,Scribing,-,-,Yes,Physical Focus Script - Initial Hit,U47
+Smash,217178,Skill,Scribing,-,-,Yes,Physical/Blood/Poison Focus - Initial Hit,U47
+Smash,217179,Skill,Scribing,-,-,Yes,Magic Focus - Initial Hit,U47
+Smash,219972,Skill,Scribing,-,-,Yes,Knockback/Stun Focus - Initial Hit,U47
+Smash,227609,Skill,Scribing,-,-,Yes,Taunt Focus -Initial Hit,U47
+Soul Burst,215779,Skill,Scribing,-,-,Yes,Disease Focus - Initial Hit,U47
+Soul Burst,217459,Skill,Scribing,-,-,Yes,Magic/Fire/Frost/Shock Focus - Initial Hit,U47
+Soul Burst,217465,Skill,Scribing,-,-,Yes,Physical/Bleed Focus - Initial Hit,U47
+Torch,217631,Skill,Scribing,-,-,Yes,Physical/Bleed Focus - Initial hit,U47
+Torch,217632,Skill,Scribing,-,-,Yes,Fire/Frost Focus - Initial hit,U47
+Trample,217679,Skill,Scribing,-,-,Yes,Physical/Disease Focus - Initial Hit,U47
+Trample,217682,Skill,Scribing,-,-,Yes,Magic/Frost Focus - Initial Hit,U47
+Trample,220543,Skill,Scribing,-,-,Yes,Stun Focus - Initial Hit,U47
+Trample,220544,Skill,Scribing,-,-,Yes,Dispelling/Knockback Focus - Initial Hit,U47
+Traveling Knife,217348,Skill,Scribing,-,-,Yes,Multi-Target Focus AOE,U47
+Traveling Knife,217359,Skill,Scribing,-,-,Yes,Physical/Bloody/Poison Focus - Between You and Them,U47
+Traveling Knife,219705,Skill,Scribing,-,-,Yes,Magic/Frost Focus - Between You and Them,U47
+Ulfsild's Contingency,217605,Skill,Scribing,-,-,Yes,Magic/Fire/Frost/Shock Focus - Initial Hit,U47
+Ulfsild's Contingency,221354,Skill,Scribing,-,-,Yes,Immobilize Focus - Initial Hit,U47
+Ulfsild's Contingency,229656,Skill,Scribing,-,-,Yes,Bleed Focus - Initial Hit,U47
+Vault,214960,Skill,Scribing,-,-,Yes,Physical/Bloody/Disease/Poison Focus,U47
+Vault,214974,Skill,Scribing,-,-,Yes,Immobilize Focus,U47
+Vault,214978,Skill,Scribing,-,-,Yes,Flame Focus,U47
+Vault,216674,Skill,Scribing,-,-,Yes,Taunt Focus,U47
+Hunter's Focus,217689,Skill,Scribing,Signature,-,Yes,Trample,U47
+Sorcerer's Class Mastery,-,Skill,Scribing,Signature,-,Yes,Mender's Bond,U47
+Sorcerer's Class Mastery,217500,Skill,Scribing,Signature,-,Yes,Traveling Knife,U47
+Sorcerer's Class Mastery,220135,Skill,Scribing,Signature,-,Yes,Vault,U47
+Sorcerer's Class Mastery,220509,Skill,Scribing,Signature,-,Yes,Wield Soul,U47
+Sorcerer's Class Mastery,220620,Skill,Scribing,Signature,-,Yes,Soul Burst,U47
+Sorcerer's Class Mastery,220831,Skill,Scribing,Signature,-,Yes,Shield Throw,U47
+Sorcerer's Class Mastery,221166,Skill,Scribing,Signature,-,Yes,Ulfsild's Contingency,U47
+Sorcerer's Class Mastery,221289,Skill,Scribing,Signature,-,Yes,Elemental Explosion,U47
+Sorcerer's Class Mastery,221374,Skill,Scribing,Signature,-,Yes,Trample,U47
+Sorcerer's Class Mastery,221573,Skill,Scribing,Signature,-,Yes,Torch,U47
+Sorcerer's Class Mastery,221644,Skill,Scribing,Signature,-,Yes,Smash,U47
+Sorcerer's Class Mastery,227096,Skill,Scribing,Signature,-,Yes,Banner,U47
 Acid Spray,38724,Skill,Weapon,Bow,-,Yes,Initial Hit Only,U47
 Arrow Barrage,38696,Skill,Weapon,Bow,-,Yes,-,U47
 Arrow Spray,38722,Skill,Weapon,Bow,-,Yes,-,U47

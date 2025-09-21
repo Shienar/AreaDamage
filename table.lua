@@ -382,15 +382,45 @@ table = {
 	[40252] = true,			-- Razor Caltrops | Last Checked: U47
 
 	-- CATEGORY: Skill>Scribing
-	[217231] = true,		-- Elemental Explosion (Initial Hit) | Last Checked: U47
-	[217178] = true,		-- Smash (Initial Hit) | Last Checked: U47
-	[217459] = true,		-- Soul Burst (Initial Hit) | Last Checked: U47
-	[217632] = true,		-- Torch (Initial hit) | Last Checked: U47
-	[217679] = true,		-- Trample (Initial Hit) | Last Checked: U47
-	[217348] = true,		-- Traveling Knife (Multi-Target Script) | Last Checked: U47
-	[217359] = true,		-- Traveling Knife (Between You and Them) | Last Checked: U47
-	[229656] = true,		-- Ulfsild's Contingency (Initial Hit) | Last Checked: U47
-	[214960] = true,		-- Vault | Last Checked: U47
+	[217231] = true,		-- Elemental Explosion (Flame/Frost/Magic/Frost Focus Scripts - Initial Hit) | Last Checked: U47
+	[229600] = true,		-- Elemental Explosion (Physical Focus Script - Initial Hit) | Last Checked: U47
+	[217178] = true,		-- Smash (Physical/Blood/Poison Focus - Initial Hit) | Last Checked: U47
+	[217179] = true,		-- Smash (Magic Focus - Initial Hit) | Last Checked: U47
+	[219972] = true,		-- Smash (Knockback/Stun Focus - Initial Hit) | Last Checked: U47
+	[227609] = true,		-- Smash (Taunt Focus -Initial Hit) | Last Checked: U47
+	[215779] = true,		-- Soul Burst (Disease Focus - Initial Hit) | Last Checked: U47
+	[217459] = true,		-- Soul Burst (Magic/Fire/Frost/Shock Focus - Initial Hit) | Last Checked: U47
+	[217465] = true,		-- Soul Burst (Physical/Bleed Focus - Initial Hit) | Last Checked: U47
+	[217631] = true,		-- Torch (Physical/Bleed Focus - Initial hit) | Last Checked: U47
+	[217632] = true,		-- Torch (Fire/Frost Focus - Initial hit) | Last Checked: U47
+	[217679] = true,		-- Trample (Physical/Disease Focus - Initial Hit) | Last Checked: U47
+	[217682] = true,		-- Trample (Magic/Frost Focus - Initial Hit) | Last Checked: U47
+	[220543] = true,		-- Trample (Stun Focus - Initial Hit) | Last Checked: U47
+	[220544] = true,		-- Trample (Dispelling/Knockback Focus - Initial Hit) | Last Checked: U47
+	[217348] = true,		-- Traveling Knife (Multi-Target Focus AOE) | Last Checked: U47
+	[217359] = true,		-- Traveling Knife (Physical/Bloody/Poison Focus - Between You and Them) | Last Checked: U47
+	[219705] = true,		-- Traveling Knife (Magic/Frost Focus - Between You and Them) | Last Checked: U47
+	[217605] = true,		-- Ulfsild's Contingency (Magic/Fire/Frost/Shock Focus - Initial Hit) | Last Checked: U47
+	[221354] = true,		-- Ulfsild's Contingency (Immobilize Focus - Initial Hit) | Last Checked: U47
+	[229656] = true,		-- Ulfsild's Contingency (Bleed Focus - Initial Hit) | Last Checked: U47
+	[214960] = true,		-- Vault (Physical/Bloody/Disease/Poison Focus) | Last Checked: U47
+	[214974] = true,		-- Vault (Immobilize Focus) | Last Checked: U47
+	[214978] = true,		-- Vault (Flame Focus) | Last Checked: U47
+	[216674] = true,		-- Vault (Taunt Focus) | Last Checked: U47
+
+	-- CATEGORY: Skill>Scribing>Signature
+	[217689] = true,		-- Hunter's Focus (Trample) | Last Checked: U47
+	[217500] = true,		-- Sorcerer's Class Mastery (Traveling Knife) | Last Checked: U47
+	[220135] = true,		-- Sorcerer's Class Mastery (Vault) | Last Checked: U47
+	[220509] = true,		-- Sorcerer's Class Mastery (Wield Soul) | Last Checked: U47
+	[220620] = true,		-- Sorcerer's Class Mastery (Soul Burst) | Last Checked: U47
+	[220831] = true,		-- Sorcerer's Class Mastery (Shield Throw) | Last Checked: U47
+	[221166] = true,		-- Sorcerer's Class Mastery (Ulfsild's Contingency) | Last Checked: U47
+	[221289] = true,		-- Sorcerer's Class Mastery (Elemental Explosion) | Last Checked: U47
+	[221374] = true,		-- Sorcerer's Class Mastery (Trample) | Last Checked: U47
+	[221573] = true,		-- Sorcerer's Class Mastery (Torch) | Last Checked: U47
+	[221644] = true,		-- Sorcerer's Class Mastery (Smash) | Last Checked: U47
+	[227096] = true,		-- Sorcerer's Class Mastery (Banner) | Last Checked: U47
 
 	-- CATEGORY: Skill>Weapon>Bow
 	[38724] = true,			-- Acid Spray (Initial Hit Only) | Last Checked: U47

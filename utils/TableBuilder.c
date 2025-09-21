@@ -61,7 +61,7 @@ int main(int argc, char** argv)
             patch[patch_length - 1] = '\0';
         }
 
-        if (strcmp("Yes", isAOE) == 0)
+        if (strcmp("Yes", isAOE) == 0 && abilityID > 0)
         {
             if (strcmp(category, currentCategory) != 0 || 
                 strcmp(subcategory1, currentSubcategory1) != 0 ||
