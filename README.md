@@ -13,4 +13,4 @@ UTILS
 
 TableBuilder generates table.lua, a commented lua table containing the information from the csv.
 
-ScriptBuilder generates a query-script.txt that, when pasted into the "New Script" part of ESOLogs' Query section, will allow you to filter for AOE abilities or non-AOE abilities. 
+ScriptBuilder generates a filter-expression.txt that, when pasted into the "Filter Expression" field on ESOLogs, will allow you to filter for AOE abilities or non-AOE abilities. 
