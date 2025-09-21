@@ -416,6 +416,7 @@ table = {
 	[220509] = true,		-- Sorcerer's Class Mastery (Wield Soul) | Last Checked: U47
 	[220620] = true,		-- Sorcerer's Class Mastery (Soul Burst) | Last Checked: U47
 	[220831] = true,		-- Sorcerer's Class Mastery (Shield Throw) | Last Checked: U47
+	[221132] = true,		-- Sorcerer's Class Mastery (Mender's Bond) | Last Checked: U47
 	[221166] = true,		-- Sorcerer's Class Mastery (Ulfsild's Contingency) | Last Checked: U47
 	[221289] = true,		-- Sorcerer's Class Mastery (Elemental Explosion) | Last Checked: U47
 	[221374] = true,		-- Sorcerer's Class Mastery (Trample) | Last Checked: U47

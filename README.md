@@ -14,7 +14,3 @@ UTILS
 TableBuilder generates table.lua, a commented lua table containing the information from the csv.
 
 ScriptBuilder generates a query-script.txt that, when pasted into the "New Script" part of ESOLogs' Query section, will allow you to filter for AOE abilities or non-AOE abilities. 
-
-TODO
-
-- The damage from the sorcerer class mastery script on mender's bond when you have no pets active is considered to be AOE damage, but the abilityID has not yet been recorded. The abilityID needs to be recorded, and the data row needs to be properly sorted.
