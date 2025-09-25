@@ -108,6 +108,8 @@ int main(int argc, char** argv)
 
     if (fprintf(output, "\n}") < 0)  fprintf(stderr, "Error printing to file at line %d", __LINE__);
 
+    fflush(output);
+
     free(abilityName);
     free(category);
     free(subcategory1);

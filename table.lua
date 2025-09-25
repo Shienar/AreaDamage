@@ -186,6 +186,7 @@ table = {
 	[20930] = true,			-- Engulfing Flames (Initial Conal Hit) | Last Checked: U47
 	[20917] = true,			-- Fiery Breath (Initial Conal Hit) | Last Checked: U47
 	[20944] = true,			-- Noxious Breath (Initial Conal Hit) | Last Checked: U47
+	[98438] = true,			-- Shackle (Synergy DMG) | Last Checked: U47
 	[32960] = true,			-- Shifting Standard | Last Checked: U47
 	[32948] = true,			-- Standard of Might | Last Checked: U47
 
@@ -276,6 +277,7 @@ table = {
 
 	-- CATEGORY: Skill>Class>Sorcerer>Storm Calling
 	[23214] = true,			-- Boundless Storm | Last Checked: U47
+	[23196] = true,			-- Conduit (Synergy DMG) | Last Checked: U47
 	[44491] = true,			-- Endless Fury (Only to other enemies nearby) | Last Checked: U47
 	[114798] = true,		-- Energy Overload (Heavy Attacks) | Last Checked: U47
 	[23232] = true,			-- Hurricane | Last Checked: U47

@@ -74,7 +74,7 @@ int main(int argc, char** argv)
             }
             else
             {
-                if (fprintf(output, "%d, ", array[i]) < 0) fprintf(stderr, "Error printing to file at line %d, i=%d, id=%d", __LINE__, i, array[i]);
+                if (fprintf(output, "%d,", array[i]) < 0) fprintf(stderr, "Error printing to file at line %d, i=%d, id=%d", __LINE__, i, array[i]);
             }
         }
         
@@ -85,6 +85,8 @@ int main(int argc, char** argv)
         }
     }
     
+    fflush(output);
+
     free(isAOE);
     isAOE = NULL;
     free(array);

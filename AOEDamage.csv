@@ -91,6 +91,7 @@ Dragonknight Standard,28995,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
 Engulfing Flames,20930,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
 Fiery Breath,20917,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
 Noxious Breath,20944,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
+Shackle,98438,Skill,Class,Dragonknight,Ardent Flame,Yes,Synergy DMG,U47
 Shifting Standard,32960,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
 Standard of Might,32948,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
 Burning Talons,20252,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
@@ -164,6 +165,7 @@ Deadric Mines,-,Skill,Class,Sorcerer,Dark Magic,No,Same for morphs,U47
 Shattering Spines,28309,Skill,Class,Sorcerer,Dark Magic,Yes,-,U47
 Suppression Field,80435,Skill,Class,Sorcerer,Dark Magic,Yes,-,U47
 Boundless Storm,23214,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
+Conduit,23196,Skill,Class,Sorcerer,Storm Calling,Yes,Synergy DMG,U47
 Endless Fury,44491,Skill,Class,Sorcerer,Storm Calling,Yes,Only to other enemies nearby,U47
 Energy Overload,114798,Skill,Class,Sorcerer,Storm Calling,Yes,Heavy Attacks,U47
 Hurricane,23232,Skill,Class,Sorcerer,Storm Calling,Yes,-,U47
