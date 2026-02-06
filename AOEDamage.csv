@@ -87,32 +87,26 @@ The Tide King's Gaze,189893,Skill,Class,Arcanist,Herald of the Tome,No,-,U47
 The Unblinking Eye,189793,Skill,Class,Arcanist,Herald of the Tome,Yes,-,U47
 Gibbering Shield,183678,Skill,Class,Arcanist,Soldier of Apocrypha,Yes,Difficult to test.,U47
 Sanctum of the Abyssal Sea,193275,Skill,Class,Arcanist,Soldier of Apocrypha,Yes,Difficult to test.,U47
-Dragonknight Standard,28995,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
-Engulfing Flames,20930,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
-Fiery Breath,20917,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
-Noxious Breath,20944,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Conal Hit,U47
-Shackle,98438,Skill,Class,Dragonknight,Ardent Flame,Yes,Synergy DMG,U47
-Shifting Standard,32960,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
-Standard of Might,32948,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U47
-Burning Talons,20252,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
-Choking Talons,20251,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
+Core of Flame,31842,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Heart of Flame,328787,Skill,Class,Dragonknight,Ardent Flame,Yes,Only findable with logs. EVENT_COMBAT_EVENT returned a hit value of 0 for this,U49 PTS 4
+Inferno,28969,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Incinerate,61945,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Power Lash,20824,Skill,Class,Dragonknight,Ardent Flame,Yes,Flame lash with stacks,U49 PTS 4
+Shackle,98438,Skill,Class,Dragonknight,Ardent Flame,Yes,Synergy DMG,U49 PTS 4
+Shifting Standard,32960,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Soul of Flame,32794,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Volcanic Whip,256798,Skill,Class,Dragonknight,Ardent Flame,Yes,-,U49 PTS 4
+Burning Talons,20252,Skill,Class,Dragonknight,Ardent Flame,Yes,Initial Hit,U49 PTS 4
+Choking Talons,20251,Skill,Class,Dragonknight,Draconic Power,Yes,-,U49 PTS 4
 Dark Talons,20245,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
-Deep Breath,32792,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
-Deep Breath,32794,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
-Dragon Leap,29014,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
-Draw Essence,32785,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
-Draw Essence,32787,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
+Disintegrating Dragonfire,20944,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U49 PTS 4
+Dragon Leap,29014,Skill,Class,Dragonknight,Draconic Power,Yes,-,U49 PTS 4
+Dragonfire Breath,20917,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U49 PTS 4
+Engulfing Dragonfire,31104,Skill,Class,Dragonknight,Draconic Power,Yes,-,U49 PTS 4
 Ferocious Leap,32716,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
-Inhale,31837,Skill,Class,Dragonknight,Draconic Power,Yes,Initial Hit,U47
-Inhale,31842,Skill,Class,Dragonknight,Draconic Power,Yes,Delayed Hit,U47
-Take Flight,32720,Skill,Class,Dragonknight,Draconic Power,Yes,-,U47
-Corrosive Armor,17979,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
-Eruption,32711,Skill,Class,Dragonknight,Earthen Heart,Yes,DOT,U47
-Eruption,32714,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
-Magma Armor,15959,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
-Magma Shell,17875,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
-Stone Giant,134340,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
-Stonefist,134310,Skill,Class,Dragonknight,Earthen Heart,Yes,Initial Hit,U47
+Ignite,32974,Skill,Class,Dragonknight,Draconic Power,Yes,Synergy DMG from talons, U49 PTS 4
+Take Flight,32720,Skill,Class,Dragonknight,Draconic Power,Yes,-,U49 PTS 4
+Corrosive Armor,17879,Skill,Class,Dragonknight,Earthen Heart,Yes,DMG to Nearby Enemies,U47
 Death Scythe,115115,Skill,Class,Necromancer,Bone Tyrant,Yes,-,U47
 Ghostly Embrace,118314,Skill,Class,Necromancer,Bone Tyrant,Yes,First Circle On-Hit,U47
 Ghostly Embrace,143944,Skill,Class,Necromancer,Bone Tyrant,Yes,Second Circle On-Hit,U47
