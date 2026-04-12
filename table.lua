@@ -168,6 +168,7 @@ table = {
 	-- CATEGORY: Skill>Class>Arcanist>Herald of the Tome
 	[185817] = true,		-- Abyssal Impact | Last Checked: U47
 	[183006] = true,		-- Cephaliarc's Flail | Last Checked: U47
+	[182979] = true,		-- Escalating Runeblades (Third Hit) | Last Checked: U49
 	[183123] = true,		-- Exhausting Fatecarver | Last Checked: U47
 	[185808] = true,		-- Fatecarver | Last Checked: U47
 	[185407] = true,		-- Fulminating Rune (6 second Detonation) | Last Checked: U47

@@ -10,4 +10,4 @@ table: TableBuilder.c
 	$(CC) $(CFLAGS) TableBuilder.c -o TableBuilder.exe
 
 clean:
-	rm *.exe
+	rm TableBuilder.exe ScriptBuilder.exe
