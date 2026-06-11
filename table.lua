@@ -487,8 +487,8 @@ table = {
 
 	-- CATEGORY: Skill>World>Werewolf
 	[58879] = true,			-- Bloodclaws (Initial Hit) | Last Checked: U50
-	[137184] = true,		-- Brutical Carnage (Damage over Time) | Last Checked: U50
-	[39109] = true,			-- Brutical Pounce (Jump DMG) | Last Checked: U50
+	[137184] = true,		-- Brutal Carnage (Damage over Time) | Last Checked: U50
+	[39109] = true,			-- Brutal Pounce (Jump DMG) | Last Checked: U50
 	[58865] = true,			-- Claw Fury | Last Checked: U50
 	[58855] = true,			-- Rending Claws (Initial Hit) | Last Checked: U50
 
