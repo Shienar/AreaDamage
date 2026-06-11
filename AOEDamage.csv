@@ -342,7 +342,8 @@ Shatter Soul,40416,Skill,World,Soul Magic,-,Yes,Ending explosion,U47
 Soul Shatter,45584,Skill,World,Soul Magic,-,Yes,Passive,U47
 Blood Mist,38968,Skill,World,Vampire,-,Yes,Every 2s,U47
 Swarming Scion,38935,Skill,World,Vampire,-,Yes,Bat AOE,U47
-Brutal Carnage,137184,Skill,World,Werewolf,-,Yes,Recast DMG,U47
-Claws of Anguish,58864,Skill,World,Werewolf,-,Yes,Initial Hit,U47
-Claws of Life,58879,Skill,World,Werewolf,-,Yes,Initial Hit,U47
-Infectious Claw,58855,Skill,World,Werewolf,-,Yes,Initial Hit,U47
+Bloodclaws,58879,Skill,World,Werewolf,-,Yes,Initial Hit,U50
+Brutical Carnage,137184,Skill,World,Werewolf,-,Yes,Damage over Time,U50
+Brutical Pounce,39109,Skill,World,Werewolf,-,Yes,Jump DMG,U50
+Claw Fury,58865,Skill,World,Werewolf,-,Yes,-,U50
+Rending Claws,58855,Skill,World,Werewolf,-,Yes,Initial Hit,U50

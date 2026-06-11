@@ -486,9 +486,10 @@ table = {
 	[38935] = true,			-- Swarming Scion (Bat AOE) | Last Checked: U47
 
 	-- CATEGORY: Skill>World>Werewolf
-	[137184] = true,		-- Brutal Carnage (Recast DMG) | Last Checked: U47
-	[58864] = true,			-- Claws of Anguish (Initial Hit) | Last Checked: U47
-	[58879] = true,			-- Claws of Life (Initial Hit) | Last Checked: U47
-	[58855] = true,			-- Infectious Claw (Initial Hit) | Last Checked: U47
+	[58879] = true,			-- Bloodclaws (Initial Hit) | Last Checked: U50
+	[137184] = true,		-- Brutical Carnage (Damage over Time) | Last Checked: U50
+	[39109] = true,			-- Brutical Pounce (Jump DMG) | Last Checked: U50
+	[58865] = true,			-- Claw Fury | Last Checked: U50
+	[58855] = true,			-- Rending Claws (Initial Hit) | Last Checked: U50
 
 }
